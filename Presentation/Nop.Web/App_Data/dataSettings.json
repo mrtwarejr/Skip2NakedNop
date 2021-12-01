@@ -1,0 +1,6 @@
+﻿{
+  "DataConnectionString": "Data Source=localhost;Initial Catalog=NOP_Skip2naked;Integrated Security=False;Persist Security Info=False;User ID=dbuser;Password=Passw0rd",
+  "DataProvider": "sqlserver",
+  "SQLCommandTimeout": null,
+  "RawDataSettings": {}
+}
